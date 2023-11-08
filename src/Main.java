@@ -24,7 +24,7 @@ public class Main {
         end = System.currentTimeMillis();
         duration2 = end - start;
         System.out.println("Продолжительность для Linkedlist " + duration2);
-        System.out.;
+        System.out.println();
 
         if (duration > duration2) {
             System.out.println("С результатом: " + duration + " победил ArrayList");
